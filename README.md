@@ -20,4 +20,4 @@ Start other terminal, and listen to the response:
 ```shell
 candump slcan0
 ```
-You shoud receive `780 02 50 03 00 00 00 00 00`.
+You shoud receive `788 02 50 03 00 00 00 00 00`.
